@@ -1,5 +1,5 @@
             - name: Dir2uf2 Action
-  uses: pavelaron/dir2uf2-action@v0.1.0
+  uses: configs/Pico
   with:
     environment-file: # Pico.txt
     file-name: # configs/Pico
