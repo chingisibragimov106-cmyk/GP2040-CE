@@ -1,0 +1,12 @@
+            - name: Dir2uf2 Action
+  # You may pin to the exact commit or the version.
+  # uses: pavelaron/dir2uf2-action@0da5f3822af479b236a31d4acc5e6bbac74af158
+  uses: pavelaron/dir2uf2-action@v0.1.0
+  with:
+    # Environment file
+    environment-file: # default is enviro.txt
+    # Name of the file to be generated without the extension
+    file-name: # default is output
+    # Path for the source directory
+    src-dir: # optional, default is .
+          
