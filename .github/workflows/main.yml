@@ -1,4 +1,4 @@
-uses: configs/Pico
+uses: pavelaron/dir2uf2-action@main
 with:
     environment-file: # Pico.txt
     file-name: # configs/Pico
