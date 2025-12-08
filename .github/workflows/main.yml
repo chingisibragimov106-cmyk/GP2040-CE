@@ -1,5 +1,4 @@
-            - name: Dir2uf2 Action
-  uses: configs/Pico
-  with:
+uses: configs/Pico
+with:
     environment-file: # Pico.txt
     file-name: # configs/Pico
